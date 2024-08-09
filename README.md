@@ -12,7 +12,7 @@ The dataset was randomly collected from an Iranian telecom company's [database](
 ```
 ├── data/
 │   └── customer_churn.csv            # Dataset
-├── churning_prediction_final.ipynb   # Jupyter notebook with the analysis
+├── churning_project_final.ipynb      # Jupyter notebook with the analysis
 ├── xgbmodel.bst                      # Optimized XGBoost model
 └── README.md                     
 ```
