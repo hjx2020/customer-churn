@@ -11,11 +11,10 @@ The dataset was randomly collected from an Iranian telecom company's [database](
 ## Project Structure
 ```
 ├── data/
-│   └── customer_churn.csv        # Dataset
-├── churning_project_final.ipynb  # Jupyter notebook with the analysis
+│   └── customer_churn.csv            # Dataset
+├── churning_prediction_final.ipynb   # Jupyter notebook with the analysis
+├── xgbmodel.bst                      # Optimized XGBoost model
 └── README.md                     
-└── src/
-    └── churning_project_v2.py    # Python script version of the notebook
 ```
 
 ## Key Findings
